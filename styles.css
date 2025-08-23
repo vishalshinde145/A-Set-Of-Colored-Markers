@@ -14,7 +14,6 @@ h1 {
   width: 60px;
   height: 25px;
 }
-.one{}
 .sleeve {
   width: 110px;
   height: 25px;
@@ -40,6 +39,7 @@ h1 {
   background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
   box-shadow: 0 0 20px 0 blue;
 }
+
 
 
 
